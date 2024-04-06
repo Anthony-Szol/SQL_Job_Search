@@ -28,5 +28,16 @@ ORDER BY
 LIMIT 5;  
 
 /*
-Edit later with conclusion
+SQL remains the top skill with the highest 
+demand count (7336), crucial for efficient data 
+retrieval and manipulation from relational databases.
+
+Python follows closely behind (4442), offering versatility 
+for various data analysis tasks including manipulation, 
+statistical analysis, and machine learning model development.
+
+Excel, Tableau, and Power BI maintain significant relevance 
+(demand counts of 4296, 3862, and 2500 respectively), with Excel 
+being fundamental for basic analysis, and Tableau and Power BI 
+focusing on data visualization, facilitating informed decision-making.
 */
