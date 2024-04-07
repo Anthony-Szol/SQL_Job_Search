@@ -25,3 +25,17 @@ WHERE
 ORDER BY
     salary_year_avg DESC
 LIMIT 10;
+
+/*
+Summary
+
+Highest Paying Data Analyst Roles:
+
+1. Mantys: Data Analyst - $650,000/year
+2. Meta: Director of Analytics - $336,500/year 
+3. AT&T: Associate Director, Data Insights - $255,829.5/year 
+4. Pinterest Job Advertisements: Data Analyst, Marketing - $232,423/year
+
+These roles offer lucrative salaries ranging from $232,423 to $650,000 per year, p
+osted via various platforms including Y Combinator, LinkedIn, ZipRecruiter, and Indeed.
+*/

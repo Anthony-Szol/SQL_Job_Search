@@ -21,6 +21,25 @@ Check out the queries here: [project_sql folder](/project_sql/)
  - Git & GitHub
 
  # Findings
+One thing that I found interesting was the skills required for both the entry level roles
+and highest paying roles. Both job types mentioned SQL, Python, Tableau, Excel, and R in 
+the same order. While the higher paying roles require a greater understand of the tools and
+languages, job seekers may want to continue improving these skills. 
+
+That being said, for those job seekers with a great understanding of the top 5 skills. Here are the top skills
+in demand and highest financial reward: 
+- Bitbucket
+- Angular
+- CSS
+- FastAPI
+- Keras
+- Golang
+- Couchbase
+- Watson
+- GitLab
+- PySpark
+
+These skills span various areas such as version control (Bitbucket, GitLab), web development (Angular, CSS, FastAPI), machine learning (Keras, PySpark), programming languages (Golang), and database management (Couchbase). They represent a diverse skill set highly valued in the data analyst market, with corresponding high average salaries.
 
  # Achievements
  This is my first GitHub repository! 

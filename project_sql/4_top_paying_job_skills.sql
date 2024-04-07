@@ -44,5 +44,15 @@ ORDER BY
     salary_year_avg DESC;
 
 /*
-Download results later and add conclusion below
+Summary
+
+While this query pulled an in-depth list of skills mentioned 
+in these high paying jobs, here are the top 5 mentioned skills 
+for a high paying data analyst roles:
+
+1. SQL
+2. Python
+3. Tableau
+4. Excel
+5. R
 */

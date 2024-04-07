@@ -42,3 +42,16 @@ GROUP BY
 ORDER BY
     COUNT(sd.skills) DESC
 LIMIT 5;
+
+
+/*
+Summary
+
+Top Entry Level Skills In Order:
+
+1. SQL: Essential for database querying and data extraction, mentioned 234 times.
+2. Python: Widely used for data manipulation, analysis, and automation, with 148 mentions.
+3. Tableau: Popular tool for creating interactive data visualizations, mentioned 142 times.
+4. Excel: Important for basic data tasks like manipulation and visualization, with 88 mentions.
+5. R: Statistical programming language for analysis and visualization, mentioned 83 times.
+*/
