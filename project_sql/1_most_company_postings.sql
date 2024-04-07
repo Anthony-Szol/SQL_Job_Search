@@ -25,3 +25,19 @@ GROUP BY
 ORDER BY
     openings DESC
 LIMIT 10;
+
+
+/*
+Summary
+
+- Company with the Most Openings: Get It Recruit - Information Technology with 46 openings.
+
+- Highest Average Salary: Uber with an average salary of $151,063.
+
+- Variation in Openings: Companies have varying numbers of openings ranging from 46 to 5.
+
+- Salary Range: Average salaries range from $109,360 to $151,063.
+
+- Industry Distribution: Companies span across various industries including Information Technology, 
+    Healthcare, Finance, and more.
+*/
